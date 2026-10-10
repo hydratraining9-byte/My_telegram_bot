@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-py-tgcalls
+pytgcalls
 yt-dlp
 pymongo
 gunicorn
